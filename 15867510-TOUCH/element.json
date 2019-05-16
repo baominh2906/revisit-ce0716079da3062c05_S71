@@ -1,0 +1,27 @@
+{
+    "tagName": "android.widget.EditText",
+    "attributes": {
+        "NAF": "true",
+        "index": "1",
+        "text": "",
+        "class": "android.widget.EditText",
+        "package": "io.appium.android.apis",
+        "content-desc": "",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "true",
+        "focused": "true",
+        "scrollable": "false",
+        "long-clickable": "true",
+        "password": "false",
+        "selected": "false",
+        "bounds": "[344,713][974,807]",
+        "resource-id": "io.appium.android.apis:id/txt_query_prefill",
+        "instance": "0",
+        "xpath": "//android.widget.EditText[@resource-id='io.appium.android.apis:id/txt_query_prefill']",
+        "ocrText": ""
+    },
+    "matchedByAttribute": "xpath"
+}

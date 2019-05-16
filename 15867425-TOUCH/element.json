@@ -1,0 +1,26 @@
+{
+    "tagName": "android.widget.TextView",
+    "attributes": {
+        "index": "1",
+        "text": "Clipboard",
+        "class": "android.widget.TextView",
+        "package": "io.appium.android.apis",
+        "content-desc": "Clipboard",
+        "checkable": "false",
+        "checked": "false",
+        "clickable": "true",
+        "enabled": "true",
+        "focusable": "false",
+        "focused": "false",
+        "scrollable": "false",
+        "long-clickable": "false",
+        "password": "false",
+        "selected": "false",
+        "bounds": "[0,359][1080,499]",
+        "resource-id": "android:id/text1",
+        "instance": "2",
+        "xpath": "//android.widget.TextView[@text='Clipboard']",
+        "ocrText": "clipboard"
+    },
+    "matchedByAttribute": "xpath"
+}
